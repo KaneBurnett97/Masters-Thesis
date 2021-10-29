@@ -1,10 +1,10 @@
-Repository Purpiose
+    Repository Purpose
 
 This repository contains the files I created during the dissertation project on my Master's degree in Bioinformatics at Newcastle University. This project took place between April and August 2021. The R and Bash scripts I created during my data analysis as well as the 'README' file for the project can be found within. In addition to these scripts I also used software developed by other scientists for my project and the links to them can be found at the end of this description.
 
 This was my first long term project in bioinformatics so I apologise in advance for any mistakes regarding good coding/bioinformatics practice. I hope to improve and correct my practice as I advance throughout my career and believe keeping a record of this amateur work is useful for purposes of self reflection.
 
-Dissertation Project
+    Dissertation Project
 
 The thesis project for my master's degree was titled: 'Investigation of the genetic drivers of cell differentiation in Human Haematopoietic Foetal Liver Stem Cells using Population Balance Analysis.'
 
